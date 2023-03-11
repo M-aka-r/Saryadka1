@@ -1,21 +1,21 @@
 body {
     font-family:comic sans ms;
     font-size: 50px;
-    background-color: royalblue;
+    background-color: DimGrey;
 }
 table{
-        border:10px dashed DarkOliveGreen;
+        border:4px dashed DarkGray;
         border-collapse: collapse;
         width:1000px;
         text-align: center;
         height:300px;
 }
 td{
-    border: dashed 10px DarkOliveGreen;
+    border: dashed 4px DarkGray;
     border-collapse:collapse;  
 }
 header{
-    background-color: DarkOliveGreen;
+    background-color: Silver;
     height: 300px;
     margin-top: 0px;
     margin-bottom: 40px;
