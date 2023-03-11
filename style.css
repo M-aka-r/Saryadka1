@@ -8,7 +8,7 @@ table{
         border-collapse: collapse;
         width:1000px;
         text-align: center;
-        height:300px;
+        height:1600px;
 }
 td{
     border: dashed 4px DarkGray;
@@ -17,10 +17,15 @@ td{
 header{
     background-color: Silver;
     height: 300px;
+    width:1500px;
     margin-top: 0px;
     margin-bottom: 40px;
 }
 h1{
-    padding-top: 100px;
-    padding-left: 200px;
+    padding-top: 750px;
+    padding-left: 500px;
+}
+img{
+    height: 300px;
+    width:1500px;
 }
