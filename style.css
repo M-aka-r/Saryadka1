@@ -1,0 +1,26 @@
+body {
+    font-family:comic sans ms;
+    font-size: 50px;
+    background-color: royalblue;
+}
+table{
+        border:10px dashed DarkOliveGreen;
+        border-collapse: collapse;
+        width:1000px;
+        text-align: center;
+        height:300px;
+}
+td{
+    border: dashed 10px DarkOliveGreen;
+    border-collapse:collapse;  
+}
+header{
+    background-color: DarkOliveGreen;
+    height: 300px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+h1{
+    padding-top: 100px;
+    padding-left: 200px;
+}
